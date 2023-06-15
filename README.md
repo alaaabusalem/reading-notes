@@ -18,4 +18,10 @@ this README file is for recording notes
 
 [Unit Testing](UnitTesting.md)
 
+### Read: The Growth Mindset
+
+[Groth Mindest](GrothMindest.md)
+
+
+
 
