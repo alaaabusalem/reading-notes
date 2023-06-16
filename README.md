@@ -27,5 +27,8 @@ this README file is for recording notes
 
 [SQL](sql.md)
 
+### Read: Practice in the Terminal
+
+[Practice in the Terminal](Terminal.md)
 
 
