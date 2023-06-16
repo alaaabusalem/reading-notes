@@ -23,5 +23,9 @@ this README file is for recording notes
 [Groth Mindest](GrothMindest.md)
 
 
+### Read: SQL
+
+[SQL](sql.md)
+
 
 
