@@ -10,3 +10,8 @@ A file is an ordered and named collection of bytes that has persistent storage. 
 
 
 ![write](../reading-notes/write.png)
+
+
+## Things I want to know more about
+
+I want to be a professional in I/O.
