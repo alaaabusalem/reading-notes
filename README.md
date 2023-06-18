@@ -31,4 +31,10 @@ this README file is for recording notes
 
 [Practice in the Terminal](Terminal.md)
 
+### Read: File Manipulation / System.IO
+
+
+[File Manipulation / System.IO
+](IO.md)
+
 
