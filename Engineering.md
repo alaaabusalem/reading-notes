@@ -12,3 +12,6 @@ Passion and Interests, Accomplishments and Contributions, Assemble a Team,  Defi
 
 
 3. Break the Problem Down and Debug:
+
+## Things I want to know more about
+Time and Space Complexity Analysis
