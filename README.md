@@ -42,3 +42,8 @@ this README file is for recording notes
 
 
 [Engineering Readings](Engineering.md)
+
+### Read: Classes & Memory Management
+
+
+[Classes & Memory Management](Class4.md)
