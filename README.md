@@ -47,3 +47,8 @@ this README file is for recording notes
 
 
 [Classes & Memory Management](Class4.md)
+
+### Read: Object Oriented Principles
+
+
+[Object Oriented Principles](Class6.md)
