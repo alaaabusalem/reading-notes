@@ -52,3 +52,8 @@ this README file is for recording notes
 
 
 [Object Oriented Principles](Class6.md)
+
+### Read: Interfaces
+
+
+[Interfaces](Class7.md)
