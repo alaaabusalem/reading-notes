@@ -57,3 +57,9 @@ this README file is for recording notes
 
 
 [Interfaces](Class7.md)
+
+### Read: Readings: Collections & Enums
+
+
+
+[Readings: Collections & Enums](Class8.md)
