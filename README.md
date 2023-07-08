@@ -63,3 +63,9 @@ this README file is for recording notes
 
 
 [Readings: Collections & Enums](Class8.md)
+
+### Read: Readings: LINQ & Delegates
+
+
+
+[Readings: LINQ & Delegates](Class9.md)
