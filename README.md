@@ -69,3 +69,9 @@ this README file is for recording notes
 
 
 [Readings: LINQ & Delegates](Class9.md)
+
+### Read: Readings: Stacks and Queues
+
+
+
+[Readings: Stacks and Queues](Class10.md)
