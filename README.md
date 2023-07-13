@@ -11,19 +11,21 @@ this README file is for recording notes
 ## [My CV](https://docs.google.com/document/d/1YhjfMGnlC_Js4Hqk5GLKF-E8QXAfzBa3-fWQ_A6r24M/edit?usp=sharing)
 
 ---
-## Module 01
+
 #### Readings Class 01: Exception Handling
+
  [Exception Handling](ExceptionHandling.md)
-### Read: Class 02 Unit Testing
+
+### Readings: Class 02 Unit Testing
 
 [Unit Testing](UnitTesting.md)
 
-### Read: The Growth Mindset
+### Readings: The Growth Mindset
 
 [Groth Mindest](GrothMindest.md)
 
 
-### Read: SQL
+### Readings: SQL
 
 [SQL](sql.md)
 
@@ -31,47 +33,52 @@ this README file is for recording notes
 
 [Practice in the Terminal](Terminal.md)
 
-### Read: File Manipulation / System.IO
+### Readings: File Manipulation / System.IO
 
 
 [File Manipulation / System.IO](IO.md)
 
 
 
-### Read: Engineering Readings
+### Readings: Engineering Readings
 
 
 [Engineering Readings](Engineering.md)
 
-### Read: Classes & Memory Management
+### Readings: Classes & Memory Management
 
 
 [Classes & Memory Management](Class4.md)
 
-### Read: Object Oriented Principles
+### Readings: Object Oriented Principles
 
 
 [Object Oriented Principles](Class6.md)
 
-### Read: Interfaces
+### Readings: Interfaces
 
 
 [Interfaces](Class7.md)
 
-### Read: Readings: Collections & Enums
+### Readings: Collections & Enums
 
 
 
 [Readings: Collections & Enums](Class8.md)
 
-### Read: Readings: LINQ & Delegates
+### Readings: LINQ & Delegates
 
 
 
 [Readings: LINQ & Delegates](Class9.md)
 
-### Read: Readings: Stacks and Queues
+### Readings: Stacks and Queues
 
 
 
 [Readings: Stacks and Queues](Class10.md)
+
+### Readings: Introduction to Databases and ERDs
+
+
+[Readings: Introduction to Databases and ERDs](Class11.md)
