@@ -82,3 +82,8 @@ this README file is for recording notes
 
 
 [Readings: Introduction to Databases and ERDs](Class11.md)
+
+### Readings: Entity Framework and APIs
+
+
+[Readings: Entity Framework and APIs](Class12.md)
