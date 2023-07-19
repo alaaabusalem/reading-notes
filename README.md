@@ -87,3 +87,8 @@ this README file is for recording notes
 
 
 [Readings: Entity Framework and APIs](Class12.md)
+
+### Readings: Dependency Injection & Repository Design Pattern
+
+
+[Readings: Entity Framework and APIs](Class13.md)
