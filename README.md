@@ -92,3 +92,8 @@ this README file is for recording notes
 
 
 [Readings: Entity Framework and APIs](Class13.md)
+
+### Readings: Navigation Properties and Routing
+
+
+[Readings: Navigation Properties and Routing](Class14.md)
