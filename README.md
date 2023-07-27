@@ -97,3 +97,8 @@ this README file is for recording notes
 
 
 [Readings: Navigation Properties and Routing](Class14.md)
+
+### Readings: Implementation: Trees
+
+
+[Readings: Implementation: Trees](Class15.md)
