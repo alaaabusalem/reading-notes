@@ -102,3 +102,9 @@ this README file is for recording notes
 
 
 [Readings: Implementation: Trees](Class15.md)
+
+### Readings: Data Transfer Objects
+
+
+
+[Readings: Data Transfer Objects](Class16.md)
