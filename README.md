@@ -108,3 +108,9 @@ this README file is for recording notes
 
 
 [Readings: Data Transfer Objects](Class16.md)
+
+### Readings: Testing and Swagger and Deployment
+
+
+
+[Readings: Testing and Swagger and Deployment](Class17.md)
