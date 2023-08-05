@@ -114,3 +114,9 @@ this README file is for recording notes
 
 
 [Readings: Testing and Swagger and Deployment](Class17.md)
+
+### Readings: Testing and Swagger and Deployment
+
+
+
+[Readings: Identity](Class18.md)
