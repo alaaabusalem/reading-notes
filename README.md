@@ -120,3 +120,10 @@ this README file is for recording notes
 
 
 [Readings: Identity](Class18.md)
+
+
+Readings: Roles, Claims and JWT Tokens
+
+
+
+[Readings: Identity](Class19.md)
