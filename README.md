@@ -126,4 +126,4 @@ Readings: Roles, Claims and JWT Tokens
 
 
 
-[Readings: Identity](Class19.md)
+[Roles, Claims and JWT Tokens](Class19.md)
