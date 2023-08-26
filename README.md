@@ -127,3 +127,9 @@ Readings: Roles, Claims and JWT Tokens
 
 
 [Roles, Claims and JWT Tokens](Class19.md)
+
+Readings: Intro to MVC
+
+
+
+[Intro to MVC](Class26.md)
