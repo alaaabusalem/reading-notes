@@ -133,3 +133,9 @@ Readings: Intro to MVC
 
 
 [Intro to MVC](Class26.md)
+
+Readings: MVC Forms
+
+
+
+[Intro to MVC](Class27.md)
