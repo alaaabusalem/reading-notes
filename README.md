@@ -139,3 +139,10 @@ Readings: MVC Forms
 
 
 [Intro to MVC](Class27.md)
+
+Readings: MVC Forms
+
+
+
+[Intro to MVC](Class28.md)
+Readings: Authentication, Authorization, Cookies
