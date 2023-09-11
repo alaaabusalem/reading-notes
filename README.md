@@ -146,3 +146,8 @@ Readings: MVC Forms
 
 [Authentication, Authorization, Cookies](Class28.md)
 Readings: Authentication, Authorization, Cookies
+
+
+
+[Azure Blob Storage](Class29.md)
+Readings: Azure Blob Storage
